@@ -6,6 +6,7 @@ public class Homework1 {
         System.out.println("i");
         System.out.println("commitowania");
         System.out.println("kolejny");
+        System.out.println("raz");
 
 
     }
