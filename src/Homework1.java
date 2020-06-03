@@ -5,8 +5,8 @@ public class Homework1 {
         System.out.println("programowania");
         System.out.println("i");
         System.out.println("commitowania");
-        System.out.println("kolejny");
-        System.out.println("raz.");
+        System.out.println("kolejna");
+        System.out.println("linijka.");
 
         System.out.print("Koniec\n");
         System.out.println("- Natalia Doroż");
